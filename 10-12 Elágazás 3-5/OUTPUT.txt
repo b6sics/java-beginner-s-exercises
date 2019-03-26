@@ -1,0 +1,65 @@
+run:
+ELÁGAZÁS 3 -------------------------------------------------
+Testtömeg index ********************************************
+Hány cm magas vagy? 176
+Hány kg a tömeged? 80
+Testtömegindexed: 25.83 túlsúlyos 
+
+Dolgozat osztályozás ***************************************
+A dolgozat pontszáma (0-100): 88
+Pontszám: 88
+Osztályzat:  jeles 
+
+ELÁGAZÁS 4 -------------------------------------------------
+Síknegyed **************************************************
+x = 5
+y = 6
+A pont a(z) első  negyedben van.
+
+Személyi szám **********************************************
+Születési év: 1961
+Nem (f/n): f
+Személyi számod eleje: 1
+
+ELÁGAZÁS 5 -------------------------------------------------
+Jegyek 1****************************************************
+Osztályzat: 5
+
+Köszönöm!
+
+Jegyek 2****************************************************
+Osztályzat: 4
+
+Köszönöm!
+
+Szökőév ****************************************************
+Év (1800-2100): 2000
+Szökőév!
+
+Intervallum (20,30) ****************************************
+A szám: 50, nem része az intervallumnak!
+A szám: 32, nem része az intervallumnak!
+A szám: -3, nem része az intervallumnak!
+A szám: 34, nem része az intervallumnak!
+A szám: 49, nem része az intervallumnak!
+A szám: 14, nem része az intervallumnak!
+A szám: 20, nem része az intervallumnak!
+A szám: 42, nem része az intervallumnak!
+A szám: 40, nem része az intervallumnak!
+A szám: 0, nem része az intervallumnak!
+
+Oszthatóság 3-mal, vagy 5-tel ******************************
+A(z) 48 OK, mert osztható 5-tel, vagy 3-mal!
+A(z) 15 OK, mert osztható 5-tel, vagy 3-mal!
+A szám: -4, nem osztható 5-tel, vagy 3-mal!
+A szám: 14, nem osztható 5-tel, vagy 3-mal!
+A szám: 38, nem osztható 5-tel, vagy 3-mal!
+A szám: 34, nem osztható 5-tel, vagy 3-mal!
+A szám: -7, nem osztható 5-tel, vagy 3-mal!
+A szám: 19, nem osztható 5-tel, vagy 3-mal!
+A(z) 0 OK, mert osztható 5-tel, vagy 3-mal!
+A szám: -2, nem osztható 5-tel, vagy 3-mal!
+
+VÉGE -------------------------------------------------------
+BUILD SUCCESSFUL (total time: 1 minute 5 seconds)
+
