@@ -1,0 +1,38 @@
+run:
+* |START JAVA 2019feb06 dolgozat| ************************************
+* |1. feladat| *******************************************************
+Kérem az első számot: 12
+Kérem a második számot: 6
+Az első szám a nagyobb!
+ 
+* |2. feladat| *******************************************************
+ Az 5-tel, de 25-tel nem ostható számok 1-200-ig
+5, 10, 15, 20, 30, 35, 40, 45, 55, 60, 65, 70, 80, 85, 90, 95, 105, 110, 115, 120, 130, 135, 140, 145, 155, 160, 165, 170, 180, 185, 190, 195, 
+
+* |3. feladat| *******************************************************
+A dolgozat pontszáma: 55
+Értékelés: elérted az elégségest.
+ 
+* |4. feladat| *******************************************************
+Egész számok osztása Jávában: 
+Osszuk el a 157-et 17-tel!
+A 15 / 17 eredménye: 9, 
+Ami az osztás egész részét adja.
+A 157 % 17 eredménye: 4, 
+Ami az osztás maradékát adja adja.
+Az osztás eredménye tizedes törtként kasztolás után jeleníthető meg:
+(double) 157 / 17 = 9.235294117647058
+ 
+* |5. feladat| *******************************************************
+Kérem az első számot: 56
+Kérem a 2. számot: 47
+Kérem a 3. számot: 55
+Kérem a 4. számot: 12
+Kérem a 5. számot: 
+0
+A számok összege: 170.0
+A számok átlaga: 42.5
+ 
+* |END JAVA 2019feb06 dolgozat| **************************************
+BUILD SUCCESSFUL (total time: 1 minute 36 seconds)
+
