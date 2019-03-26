@@ -1,0 +1,11 @@
+run:
+HÁZI FELADAT 16 JAVA GYAKORLÁS -----------------------------
+Egy egész szám osztói **************************************
+A szám: 358
+1 2 179 358 
+Két egész legnagyobb közös osztója *************************
+Az 1. szám: 2568
+Az 2. szám: 1284
+LNKO: 1284
+BUILD SUCCESSFUL (total time: 25 seconds)
+
