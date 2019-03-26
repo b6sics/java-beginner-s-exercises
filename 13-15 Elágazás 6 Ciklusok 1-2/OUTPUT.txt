@@ -1,0 +1,35 @@
+run:
+ELÁGAZÁS 6 -------------------------------------------------
+A hét napjai ***********************************************
+A nap sorszáma: 5
+péntek
+Pénzváltás *************************************************
+Hány Ft 1 Euro 314
+1. Euro->Ft 2. Ft->Euro 2
+Átváltandó összeg (HUF): 
+67895
+216 EUR
+CIKLUSOK 1 - WHILE -----------------------------------------
+Szamsorozat 1-től 10-ig ************************************
+1 2 3 4 5 6 7 8 9 10 
+10-től 50-ig kettesével ************************************
+10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 
+500-től 400-ig hetesével ***********************************
+500 493 486 479 472 465 458 451 444 437 430 423 416 409 402 
+200-től 300-ig 2-vel és 7-el osztható **********************
+210 231 252 273 294 
+CIKLUSOK 2 -------------------------------------------------
+Számok négyzete - ha 0, akkor EXIT *************************
+Az első szám: 5
+A szám négyzete: 25.0
+A következő szám: 9
+A szám négyzete: 81.0
+A következő szám: 6,5
+A szám négyzete: 42.25
+A következő szám: 0
+Hátul tesztelő ciklus - DO WHILE ***************************
+Az osztályzat: 6
+Az osztályzat: 4
+4: jó
+BUILD SUCCESSFUL (total time: 52 seconds)
+
