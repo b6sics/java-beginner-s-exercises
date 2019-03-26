@@ -1,0 +1,64 @@
+run:
+
+05 ÜDVÖZLET *****************************
+Mi a neved? g
+Üdvözöllek g!
+
+05 KÖR **********************************
+A kör sugara: 8
+Kör 
+	A kör sugara: 8.0
+	A kör kerülete: 50.27
+	A kör területe: 201.06
+
+05 PITAGORASZ ***************************
+a oldal: 5,3
+b oldal: 6,2
+	A c oldal: 8.16
+
+06 MEDENCE ******************************
+A medence sugara: 3,4
+A medence mélysége: ,84
+	A vízfelszin:  36,32 m2
+	A medence térfogata: 30,51 m3
+	A feltöltés ára: 15 253,06 Ft2
+
+06 FAHRENHEIT/CELSIUS *******************
+Hőmérséklet (USA) °F: 56
+	Hőmérséklet (EU):  13,33 °C
+
+07 PIAC *********************************
+Almák száma: 8
+Körték száma: 12
+	Fizetendő:     1 220 Ft
+Kapott összeg: 3000
+	Visszajáró:     1 780 Ft
+
+	100 Ft-os:   17 db
+	 50 Ft-os:    1 db
+	 20 Ft-os:    1 db
+	 10 Ft-os:    1 db
+	  5 Ft-os:    0 db
+
+07 CELSIUS/FAHRENHEIT *******************
+Hőmérséklet (EU) °C: 34
+	Hőmérséklet (EU):  93,20 °F
+
+08 ELÁGAZÁS 1 ***************************
+Hány fok van: 15
+Nincs meleg
+Ne nyisd ki az ablakot!
+
+08 PÁROS/PÁRATLAN ***********************
+Irj be egy számot: 6
+Páros
+
+09 RUHA *********************************
+Hány fok van: 38
+Fürdőruhát vegyél fel!
+
+09 ELETKOR ******************************
+Hány éves? 58
+dolgozó
+BUILD SUCCESSFUL (total time: 1 minute 15 seconds)
+
