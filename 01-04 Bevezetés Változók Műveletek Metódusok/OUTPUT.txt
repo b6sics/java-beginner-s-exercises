@@ -1,0 +1,52 @@
+run:
+
+*************************
+01 Bevezetés
+	Helló világ
+
+*************************
+02 Változók
+	Ez egy virtuális autó
+	Az autó sebességfokozata: 4
+	Az autó pillanatnyi sebessége: 58.6
+	Az autó színkódja: R
+	Az autó metalfényű: true
+
+*************************
+03 Műveletek 1
+	A számok összege: 
+	30
+	A számok összege: 30
+	A számok összege: 30
+	A számok különbsége: -10
+
+*************************
+03 Műveletek 2
+	a  : 10
+	a++: 10
+	a  : 11
+	a  : 10
+	++a: 11
+	a  : 11
+
+*************************
+03 Műveletek 3
+	A számok hányadosa: 0.5
+	A maradék: 10
+	A számok szorzata: 200
+
+*************************
+04 Metódusok
+	Math.min: 10
+	Math.sqrt: 3.1622776601683795
+	Math.PI: 3.141592653589793
+
+*************************
+Kör 
+	A kör sugara: 2.54
+	A kör kerülete: 15.96
+	A kör területe: 20.27
+
+*************************
+BUILD SUCCESSFUL (total time: 0 seconds)
+
