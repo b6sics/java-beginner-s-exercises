@@ -1,0 +1,81 @@
+run:
+*| STARTofJAVA 2019feb13 |**********************************
+------------------------------------------------------------
+*| 20 Véletlen - fej vagy írás |****************************
+1.írás 2.fej 3.írás 4.fej 5.írás 6.fej 7.fej 8.fej 9.fej 10.fej 
+7 fej és 3 írás
+
+*| 20 Véletlen - kockajáték |*******************************
+A játékos dobása: 1
+A gép dobása: 6
+A gép nyert!
+Még egy játék (i/n)? 
+
+A játékos dobása: 2
+A gép dobása: 4
+A gép nyert!
+Még egy játék (i/n)? 
+n
+ 
+*| 20 Véletlen - 20 és 99 között |**************************
+ 69
+
+*| 21 Véletlen - Számkitaláló játék |***********************
+Gondoltam egy számot 1 és 100 között.
+Találd ki!
+Tipp: 
+50
+Ennél nagyobb!
+Tipp: 
+75
+Ennél kisebb!
+Tipp: 
+57
+Ennél nagyobb!
+Tipp: 
+62
+Ennél nagyobb!
+Tipp: 
+68
+Ennél nagyobb!
+Tipp: 
+72
+Gratulálok, eltaláltad 6 lépésben!
+Még egy játék? (i/n)? 
+n
+*| 21 Véletlen - Számkitaláló játék |***********************
+Gondoltam egy számot 1 és 1000 között.
+Találd ki!
+Tipp: 
+500
+Ennél kisebb!
+Tipp: 
+250
+Ennél nagyobb!
+Tipp: 
+375
+Ennél kisebb!
+Tipp: 
+320
+Ennél kisebb!
+Tipp: 
+285
+Ennél nagyobb!
+Tipp: 
+302
+Ennél nagyobb!
+Tipp: 
+311
+Ennél kisebb!
+Tipp: 
+306
+Ennél nagyobb!
+Tipp: 
+309
+Gratulálok, eltaláltad 9 lépésben!
+Még egy játék? (i/n)? 
+n
+------------------------------------------------------------
+*| ENDofJAVA   2019feb13 |**********************************
+BUILD SUCCESSFUL (total time: 2 minutes 52 seconds)
+
