@@ -1,0 +1,58 @@
+run:
+*| STARTofJAVA 2019feb27 |**********************************
+------------------------------------------------------------
+-| 25 - Metódusok 4. Lottó variációk száma: |---------------
+5-ös lottó:	43949268
+6-os lottó:	8145060
+Skandináv:	6724520
+
+-| 25 - Metódusok 4. Rekurzió |-----------------------------
+-| A |------------------------------------------------------
+1
+2
+3
+4
+5
+6
+7
+8
+-| B |------------------------------------------------------
+8
+7
+6
+5
+4
+3
+2
+1
+
+-| 26 Stringek 1 - Széthúz |--------------------------------
+Szöveg: klhsdafkjhlakfdsh
+k l h s d a f k j h l a k f d s h 
+
+-| 26 Stringek 1 - Vakáció |--------------------------------
+ó
+ió
+ció
+áció
+káció
+akáció
+vakáció
+
+-| 26 Stringek 1 - Európa Bajnokság |-----------------------
+Baj
+
+-| 27 Stringek 2 - Tuvudsz 1 |------------------------------
+Szöveg: Kőműves Kelemen
+KŐVŐMŰVŰVEVES KEVELEVEMEVEN
+
+-| 27 Stringek 2 - Tuvudsz 2 |------------------------------
+Szöveg: brekegek
+BREVEKEVEGEVEK
+Szöveg: 
+
+
+------------------------------------------------------------
+*| ENDofJAVA   2019feb27 |**********************************
+BUILD SUCCESSFUL (total time: 20 seconds)
+
