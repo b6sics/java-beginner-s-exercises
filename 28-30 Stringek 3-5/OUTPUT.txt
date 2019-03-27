@@ -1,0 +1,59 @@
+run:
+*| STARTofJAVA 2019mar06 |**********************************
+------------------------------------------------------------
+-| 28 Stringek 3 - Palindróma |-----------------------------
+Átalakítva: INDULAGÖRÖGALUDNI
+Palindróma!
+
+-| 28 Stringek 3 - Erős jelszó |----------------------------
+FqnM8LT_jzbx7x1R
+KS4FS2Z)(kiSwQd4
+NGWISUXUh(5luDSl
+__nIkK16AVluebhO
+swbHGj8B7RrZkk3d
+
+-| 29 Stringek 4 - Karaktertábla |--------------------------
+! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 
+5 6 7 8 9 : ; < = > ? @ A B C D E F G H 
+I J K L M N O P Q R S T U V W X Y Z [ \ 
+] ^ _ ` a b c d e f g h i j k l m n o p 
+q r s t u v w x y z { | } ~  
+í 237
+ö 246
+ü 252
+ó 243
+ő 337
+é 233
+á 225
+ú 250
+ű 369
+Í 205
+Ö 214
+Ü 220
+Ó 211
+Ő 336
+É 201
+Á 193
+Ú 218
+Ű 368
+
+-| 29 Stringek 4 - Átlag |----------------------------------
+Osztályzatok: 4
+Átlag: 4,00
+Osztályzatok: 5 3 4 2 1 5 5 2 2
+Átlag: 3,22
+
+-| 30 Stringek 5 - Titkosírás |-----------------------------
+Nyílt szöveg: léda és a hat tyúk
+
+
+Átalakítva: LEDAESAHATTYUK
+Kódolva: OVWZVHZSZGGBFP
+Nyílt szöveg: 
+
+
+
+------------------------------------------------------------
+*| ENDofJAVA   2019mar06 |**********************************
+BUILD SUCCESSFUL (total time: 41 seconds)
+
